@@ -3,6 +3,7 @@ def using_include(array, element)
   array = [1,2,3,4]
   
   array.include?(3)
+  array.include?(5)
 
 end
 
