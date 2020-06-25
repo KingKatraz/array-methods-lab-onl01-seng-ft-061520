@@ -6,8 +6,8 @@ element2 = "Tardis"
 
 end
 
-using_include(array, element1)
-using_include(array, element2)
+using_include(array, "wow")
+using_include(array, "Tardis")
 
 
 def using_sort(array)
