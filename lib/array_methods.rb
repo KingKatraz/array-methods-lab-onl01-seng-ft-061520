@@ -1,5 +1,6 @@
 def using_include(array, element)
   
+colors = [blue, white, red, yellow]
 
 
 end
