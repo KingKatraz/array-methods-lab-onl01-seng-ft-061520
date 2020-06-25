@@ -2,6 +2,7 @@ def using_include(array, element)
   
 colors = [blue, white, red, yellow]
 
+colors.include?(blue)
 
 end
 
