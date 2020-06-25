@@ -6,6 +6,8 @@ element2 = "Tardis"
 
 end
 
+using_include(array, element1)
+
 
 def using_sort(array)
 
