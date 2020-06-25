@@ -5,7 +5,7 @@ def using_include(array, element)
   array << 6
   
   array.include?(5)
-  array.include?(3)
+  array.include?(7)
 
 end
 
